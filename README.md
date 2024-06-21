@@ -21,4 +21,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
+<<<<<<< HEAD
 *
+=======
+* ...
+<<<<<<< HEAD
+=======
+>>>>>>> e69c244 (Create)
+>>>>>>> 3853016 (Create)
+>>>>>>> bfc56f4 (Create)
